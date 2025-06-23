@@ -1,6 +1,4 @@
 #!/bin/bash
-chmod +x .badge.sh
-./.badge.sh
 err=0
 
 #################LAB SPECIFIC CODE HERE#############
